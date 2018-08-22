@@ -1,0 +1,85 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+/* common styles */
+body {
+  background-color: #FFF;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.75em;
+}
+
+h1, h3, .destination {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #4D4D4D;
+  color: #FFF;
+  font-size: 1.75em;
+  letter-spacing: .2em;
+  margin: 0px 0 20px 0;
+  padding: 50px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+img, table {
+  width: 100%;
+}
+
+tr, td {
+    padding: 15px;
+    text-align: left;
+}
+
+/* styles */
+.container {
+  margin: 0 auto;
+  width: 100%;      
+}
+
+.destination{
+  font-size: 1.5em;
+  text-align: left;
+  vertical-align: top;
+}
+
+td.destination{
+  width: 550px;
+}
+
+.icon {
+  width: 175px;
+}
+
+td.icon {
+  width: 100%;
+}
+
+.navbar, .searchbar {
+  background-color: transparent;
+  position: fixed;
+  margin: 0 auto;
+  padding: 60px;
+  width: 100%;
+}
+
+.searchbar {
+  background-color: white;
+  display: block;
+}
+
+.route-container {
+  border-bottom: 10px solid #ddd;
+  height: 10%;
+  margin: 0 auto;
+  padding: 40px;
+}

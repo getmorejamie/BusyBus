@@ -16,7 +16,7 @@ h1, h3, .destination {
 h1 {
   background-color: #4D4D4D;
   color: #FFF;
-  font-size: 1.75em;
+  font-size: 1.5em;
   letter-spacing: .2em;
   margin: 0px 0 20px 0;
   padding: 50px;
@@ -36,14 +36,14 @@ img, table {
 }
 
 tr, td {
-    padding: 15px;
-    text-align: left;
+  padding: 15px;
+  text-align: left;
 }
 
 /* styles */
 .container {
   margin: 0 auto;
-  width: 100%;      
+  width: 100%;
 }
 
 .destination{

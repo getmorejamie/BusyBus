@@ -35,9 +35,17 @@ img, table {
   width: 100%;
 }
 
-tr, td {
+table {
+  table-layout: fixed;
+}
+
+td {
   padding: 15px;
   text-align: left;
+}
+
+tr {
+  width: 100%;
 }
 
 /* styles */
@@ -46,22 +54,26 @@ tr, td {
   width: 100%;
 }
 
-.destination{
+.destination {
   font-size: 1.5em;
   text-align: left;
   vertical-align: top;
 }
 
-td.destination{
-  width: 550px;
+td.destination {
+  width: 50%;
 }
 
 .icon {
-  width: 175px;
+  width: 100%;
 }
 
 td.icon {
-  width: 100%;
+  width: 25%;
+}
+
+tr:hover {
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
 }
 
 .navbar, .searchbar {

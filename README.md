@@ -7,6 +7,6 @@ Also, checkout the evolution with the two branches off the Master.
 
 Nice to still be learning!
 
-** BusyBus : Kickback and Relax Transit App **
+**BusyBus : Kickback and Relax Transit App**
 
-![Image of Main Screen](https://github.com/getmorejamie/BusyBus/images/BusyBus-MainScreen.png)
+![Image of Main Screen](https://github.com/getmorejamie/BusyBus/blob/master/images/BusyBus-MainScreen.png)

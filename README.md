@@ -7,9 +7,10 @@ Also, checkout the evolution with the two branches off the Master.
 
 Nice to still be learning!
 
-<p align="center">
 **BusyBus : Kickback and Relax Transit App**
 Task: Create a simple layout design for a transit app screen that makes it easy for a user to digest those overly complicated city bus schedules. You know the ones I mean.
+
+<p align="center">
 
 ![Image of Main Screen](https://github.com/getmorejamie/BusyBus/blob/master/images/BusyBus-MainScreen.png)
 
